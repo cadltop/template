@@ -1,2 +1,2 @@
-import 'normalize.css';
-import './index.css';
+import "normalize.css";
+import "./index.css";
